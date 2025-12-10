@@ -1,0 +1,8 @@
+notes 
+sudo apt update
+sudo apt install nginx -y
+
+sudo cp -r ~/server-survival/* /var/www/html/
+
+
+now access with public ip
